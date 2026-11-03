@@ -1,3 +1,3 @@
 # agent-worker
 
-Sandbox repository for the dsh-superagent smoke test.
+Sandbox repository for the dsh-superagent workflow smoke test.
